@@ -1,6 +1,6 @@
-# Hola, soy Rainbow 
+# Hola, soy Jose Ayala 
 
-Desarrollador en formación con interés en **backend development**. Me apasiona construir APIs, trabajar con bases de datos y aprender las herramientas que hacen funcionar las aplicaciones por dentro.
+Desarrollador en formación con interés en **backend development**. Me apasiona construir APIs, trabajar con bases de datos y aprender las herramientas que hacen funcionar las aplicaciones por dentro, tambien estudio ingenieria electronica en la universidad.
 
 ---
 
