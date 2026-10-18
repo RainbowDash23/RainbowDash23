@@ -59,7 +59,17 @@ Aplicación web con **Flask** que calcula el IMC, clasifica resultados según la
 Guía interactiva de misiones de mundo para las 6 regiones de Genshin Impact. Sistema de progreso con persistencia en localStorage, búsqueda y filtros.
 `React` `TypeScript` `Tailwind CSS` `Vite`
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/rainbowdash23/rainbowdash23/snake-output/snake.svg" alt="Snake animation" />
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rainbowdash23/rainbowdash23/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rainbowdash23/rainbowdash23/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rainbowdash23/rainbowdash23/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
 
 ##  Contacto
 
