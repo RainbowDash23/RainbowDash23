@@ -52,12 +52,14 @@ API REST construida con **Django REST Framework** para la gestión de menú y re
 `Python` `Django` `DRF` `SQLite`
 
 ###  [SISSU — Módulo de Evaluación Nutricional (IMC)](https://github.com/RainbowDash23/Proyecto-IMC)
-Aplicación web con **Flask** que calcula el IMC, clasifica resultados según la OMS y genera recomendaciones personalizadas mediante la **API de Claude (Anthropic)**. Incluye historial con gráficas interactivas.
-`Python` `Flask` `SQLite` `Claude API` `Chart.js`
+Aplicación web con **Flask** que calcula el IMC, clasifica resultados según la OMS y genera recomendaciones personalizadas mediante la IA. Incluye historial con gráficas interactivas.
+`Python` `Flask` `PostgreSQL` `IA` `Chart.js`
 
 ###  [Genshin Quest Guide](https://github.com/RainbowDash23/genshin-impact-guide)
 Guía interactiva de misiones de mundo para las 6 regiones de Genshin Impact. Sistema de progreso con persistencia en localStorage, búsqueda y filtros.
 `React` `TypeScript` `Tailwind CSS` `Vite`
+
+---
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/rainbowdash23/rainbowdash23/snake-output/snake.svg" alt="Snake animation" />
 
